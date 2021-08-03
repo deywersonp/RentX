@@ -23,7 +23,8 @@
 ## 💻 Project
 
 RentalX is a Rest API developed for car rental.
-This project is not finished yet.
+
+*This project is not finished yet.*
 
 <br><br>
 
@@ -54,7 +55,7 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 - Type `git clone`
 - Insert the HTTP or SSH key (on windows, shift + insert to paste on gitBash)
 - You can find this HTTP or SSH Key by clicking on `Code` on the top right in this repository
-![image](https://user-images.githubusercontent.com/79553681/128063767-d4690dd3-d777-43e4-b416-f4d187e7b5b7.png)
+![image](https://user-images.githubusercontent.com/79553681/128068213-d61ece54-50c0-4570-9bc4-7771878e6ae8.png)
 
 
 - Once cloned you can open the project in your IDE and enter the codes below in the IDE terminal

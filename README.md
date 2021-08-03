@@ -22,7 +22,7 @@
 
 ## 💻 Project
 
-RentalX is a Rest API developed for car rental.
+RentalX is an API Rest developed for car rental.
 
 *This project is not finished yet.*
 

@@ -11,4 +11,5 @@ class ListCategoriesController {
     return response.json(all);
   }
 }
+
 export { ListCategoriesController };

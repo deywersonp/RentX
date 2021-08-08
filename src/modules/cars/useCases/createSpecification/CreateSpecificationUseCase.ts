@@ -2,6 +2,7 @@ import { ISpecificationsRepository } from "../../repositories/ISpecificationsRep
 
 interface IRequest {
   name: string;
+
   description: string;
 }
 
@@ -15,6 +16,7 @@ class CreateSpecificationUseCase {
     if (specificationAlreadyExists) {
       throw new Error("Specification already exists!");
     }
+
     this.specificationsRepository.create({ name, description });
   }
 }

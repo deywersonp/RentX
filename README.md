@@ -1,5 +1,5 @@
 <h1 align="center">
-  RentalX
+  RentX
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## 💻 Project
 
-RentalX is an API Rest developed for car rental.
+RentX is an API Rest developed for car rental.
 
 *This project is not finished yet.*
 
@@ -55,7 +55,8 @@ If you want run this code, you can start cloning the repository using HTTP or SS
 - Type `git clone`
 - Insert the HTTP or SSH key (on windows, shift + insert to paste on gitBash)
 - You can find this HTTP or SSH Key by clicking on `Code` on the top right in this repository
-![image](https://user-images.githubusercontent.com/79553681/128068213-d61ece54-50c0-4570-9bc4-7771878e6ae8.png)
+![image](https://user-images.githubusercontent.com/79553681/128738888-99eba5d6-4107-403e-9c89-765b497830bf.png)
+
 
 
 - Once cloned you can open the project in your IDE and enter the codes below in the IDE terminal

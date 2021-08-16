@@ -36,7 +36,12 @@ This project was developed using these techs:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Multer](https://www.npmjs.com/package/multer)
-- [Swagger-ui-express](https://swagger.io/)
+- [PostgreSQL](https://www.postgresql.org/about/)
+- [TypeORM](https://typeorm.io/#/)
+- [Tsyringe](https://www.npmjs.com/package/tsyringe?activeTab=readme)
+- [Bcrypt](https://www.npmjs.com/package/bcrypt)
+- [JWT (JSON Web Token)](https://jwt.io/introduction)
+- [Swagger](https://swagger.io/)
 
 <br>
 
@@ -44,6 +49,7 @@ This project was developed using these techs:
 
 - GitHub
 - [Swagger](https://swagger.io/)
+- [Docker](https://www.docker.com/)
 
 <br>
 
@@ -75,7 +81,7 @@ You can use [Insomnia](https://insomnia.rest/download) (or other similar tool) t
 - [uuid](https://www.npmjs.com/package/uuid)
 - Multer
 - Swagger-ui-express
-- Csv-parse
+- [Csv-parse](https://www.npmjs.com/package/csv-parse)
 
 
 **Dev Dependencies**
@@ -100,6 +106,8 @@ The main features of the application are:
 - List car category
 - Create car specifications
 - Import categories
+- Create user
+- Authenticate user
 - [More comming]
 
 <br>
